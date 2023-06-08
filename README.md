@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/EmanRadwan114/Huddle-landing-page-with-curved-sections
-- Live Site URL: https://emanradwan114.github.io/Huddle-landing-page-with-curved-sections/
+- Solution URL:  https://github.com/EmanRadwan114/Fylo-Landing-Page-With-Curved-Section.git
+- Live Site URL: https://emanradwan114.github.io/Fylo-Landing-Page-With-Curved-Section/
 
 ### Built with
 
